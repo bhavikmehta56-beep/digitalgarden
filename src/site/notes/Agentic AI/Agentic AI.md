@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/agentic-ai/agentic-ai/","dg-note-properties":{"permalink":"AI study"}}
+{"dg-publish":true,"permalink":"/agentic-ai/agentic-ai/","tags":["gardenEntry"],"dg-note-properties":{"permalink":"AI study"}}
 ---
 
 What is Agentic AI?
