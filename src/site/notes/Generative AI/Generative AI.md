@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/generative-ai/generative-ai/","dg-note-properties":{"permalink":"lecture-0-digital-garden-setup"}}
+{"dg-publish":true,"permalink":"/generative-ai/generative-ai/","dg-note-properties":{"permalink":"AI study"}}
 ---
 
 What is Generative AI ? 
