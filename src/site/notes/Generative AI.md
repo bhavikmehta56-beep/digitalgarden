@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/generative-ai/","dg-note-properties":{"permalink":"AI study"}}
 ---
 
-Parent: [[Agentic AI\|Agentic AI]]
+Parent: [[Artificial Intelligence\|Artificial Intelligence]]
 
 What is Generative AI ? 
 
