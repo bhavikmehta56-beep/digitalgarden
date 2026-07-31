@@ -2,9 +2,6 @@
 {"dg-publish":true,"permalink":"/agentic-ai/how-to-create-git-hub-repository/","dg-note-properties":{"permalink":"AI study"}}
 ---
 
-
-
-
 **Create a GitHub Repository**
 1. Sign in to GitHub.
 2. Create a new repository (for example, `digital-garden`).
