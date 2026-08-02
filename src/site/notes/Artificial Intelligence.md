@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/artificial-intelligence/","tags":["gardenEntry"],"noteIcon":"","dg-note-properties":{"permalink":"AI study"}}
+{"dg-publish":true,"permalink":"/artificial-intelligence/","tags":["gardenEntry"],"noteIcon":"","dg-note-properties":{}}
 ---
 
 Parent: [[Artificial Intelligence\|Artificial Intelligence]]
