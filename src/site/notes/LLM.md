@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/llm/","dg-note-properties":{"permalink":"AI study"}}
 ---
 
-See [[Machine Learning\|Machine Learning]]
+See: [[Machine Learning\|Machine Learning]]
 
 **What is Large Language Model?** 
 A Large Language Model (LLM) is a type of Artificial Intelligence (AI) model that is trained on massive amounts of text data (books, websites, articles, code, etc.) to understand and generate human-like language.
