@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/different-between/","updated":"2026-08-02T12:43:07.664+05:30","dg-note-properties":{"permalink":"AI study"}}
+{"dg-publish":true,"permalink":"/different-between/","dg-note-properties":{"permalink":"AI study"}}
 ---
 
 See [[Artificial Intelligence\|Artificial Intelligence]]

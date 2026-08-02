@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/explaining-the-generative-ai-tools-below/","updated":"2026-08-02T14:33:11.253+05:30","dg-note-properties":{"permalink":"AI study"}}
+{"dg-publish":true,"permalink":"/explaining-the-generative-ai-tools-below/","dg-note-properties":{"permalink":"AI study"}}
 ---
 
 See [[Generative AI\|Generative AI]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/generative-ai/","updated":"2026-08-02T12:27:29.432+05:30","dg-note-properties":{"permalink":"AI study"}}
+{"dg-publish":true,"permalink":"/generative-ai/","dg-note-properties":{"permalink":"AI study"}}
 ---
 
 Parent: [[Artificial Intelligence\|Artificial Intelligence]]
