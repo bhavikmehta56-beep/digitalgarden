@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/how-to-create-git-hub-repository/","dg-note-properties":{"permalink":"AI study"}}
+{"dg-publish":true,"permalink":"/how-to-create-git-hub-repository/","updated":"2026-08-02T11:04:30.372+05:30","dg-note-properties":{"permalink":"AI study"}}
 ---
 
 See [[GitHub\|GitHub]]

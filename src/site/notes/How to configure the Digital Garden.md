@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/how-to-configure-the-digital-garden/","dg-note-properties":{"permalink":"AI study"}}
+{"dg-publish":true,"permalink":"/how-to-configure-the-digital-garden/","updated":"2026-08-02T14:20:01.593+05:30","dg-note-properties":{"permalink":"AI study"}}
 ---
 
 See: [[Digital Garden\|Digital Garden]]
