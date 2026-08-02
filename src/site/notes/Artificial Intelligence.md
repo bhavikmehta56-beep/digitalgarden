@@ -4,7 +4,6 @@
 
 Parent: [[Artificial Intelligence\|Artificial Intelligence]]
 
-
 **What is Artificial Intelligence (AI)?**
 Artificial Intelligence (AI) is a branch of computer science focused on building smart machines capable of performing tasks that typically require human intelligence—such as reasoning, learning from experience, recognizing patterns, understanding natural language, and making decisions.
 ![Artificial Intelligence image.png\|459](/img/user/Image/Artificial%20Intelligence%20image.png)
@@ -32,8 +31,7 @@ The diagram above illustrates how the core concepts fit together as nested subse
    Sensor Data)                                                Generated Content)
 ```
 
- 
- **How AI Works**
+  **How AI Works**
 
 ```
       Data
@@ -58,5 +56,4 @@ The diagram above illustrates how the core concepts fit together as nested subse
 | **Narrow AI**  | Performs one specific task        | Chatbots, Face Unlock, Google Translate |
 | **General AI** | Can perform many human-like tasks | Still under research                    |
 | **Super AI**   | More intelligent than humans      | Theoretical (does not exist today)      |
-
 
