@@ -4,8 +4,7 @@
 
 See [[Agentic AI\|Agentic AI]]
 
-What is Digital Garden in obsidian ?
-## What is a Digital Garden in Obsidian?
+**What is Digital Garden in obsidian ?**
 
 ![Image|360](https://images.openai.com/static-rsc-4/eTYNkBPzUHiXh7uBIFJ0w0AFKEGMtO1LjaU_naiBqtJ_RPxSD62VzpvsU8tZsZRHSJ1upnkW7LoZMz3olMcEMxFibceMJfnKhZC9StFYjspln84ZMEtpWul4vosBpCdgA02fgwzb4CTUwRm2U2GdE5Z0fxFZSmvGZwIVtM5At_Smh6oF1_YftA0k4CT4qeqo?purpose=fullsize)
 
@@ -40,8 +39,6 @@ Unlike a traditional notebook, a digital garden is non-linear. Every note can co
 3. **Add Tags** – Organize notes with tags such as `#AI`, `#Programming`, or `#ERP`.
 4. **Build Knowledge** – Over time, your notes become an interconnected knowledge network.
 5. **Publish (Optional)** – You can publish your digital garden as a website using Obsidian Publish or community plugins.
-
-
 **Example**
 Suppose you're learning AI.
 
@@ -64,7 +61,6 @@ AI
 ```
 
 Every note links to related topics, making it easy to navigate your knowledge 
-
 **Benefits**
 - 🌱 Organizes knowledge instead of isolated notes.
 - 🔗 Creates connections between ideas.
@@ -74,17 +70,13 @@ Every note links to related topics, making it easy to navigate your knowledge
 - 🧠 Helps retain information by continuously refining notes.
 
 **Why Obsidian is Popular for Digital Gardens**
-
 Obsidian is widely used because it offers:
-
 - **Markdown-based notes** (plain text files)
 - **Bidirectional linking** (`[[Note]]`)
 - **Graph View** to visualize note relationships
 - **Tags and folders** for organization
 - **Plugins** to extend functionality
 - **Offline-first** storage with local file
-
-  ----------------------------------------------------------
+ ------
 **Summary** 
-
 A Digital Garden in Obsidian is a collection of interconnected, continuously evolving notes. Rather than creating static documents, you build a growing network of knowledge that becomes more valuable as you add and connect ideas over time.
