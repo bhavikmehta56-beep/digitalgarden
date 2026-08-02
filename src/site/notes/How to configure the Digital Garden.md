@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/how-to-configure-the-digital-garden/","dg-note-properties":{"permalink":"AI study"}}
 ---
 
-See: [[What is Digital Garden\|What is Digital Garden]]
+See: [[Digital Garden\|Digital Garden]]
 
 **How to setup Digital Garden?** 
 
