@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/how-to-create-git-hub-repository/","dg-note-properties":{"permalink":"AI study"}}
 ---
 
-See [[Agentic AI\|Agentic AI]]
-
+See [[GitHub\|GitHub]]
 
 **Create a GitHub Repository**
 1. Sign in to GitHub.

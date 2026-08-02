@@ -4,7 +4,7 @@
 
 See: [[What is Digital Garden\|What is Digital Garden]]
 
-How to setup Digital Garden? 
+**How to setup Digital Garden?** 
 
 1. Download the Obsidian application on system like Window or MAC. 
 ![Obsidian Download.png](/img/user/Image/Obsidian%20Download.png)
