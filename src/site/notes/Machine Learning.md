@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/machine-learning/","dg-note-properties":{"permalink":"AI study"}}
+{"dg-publish":true,"permalink":"/machine-learning/","noteIcon":"","dg-note-properties":{"permalink":"AI study"}}
 ---
 
 See: [[Artificial Intelligence\|Artificial Intelligence]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rag/","dg-note-properties":{"permalink":"AI study"}}
+{"dg-publish":true,"permalink":"/rag/","noteIcon":"","dg-note-properties":{"permalink":"AI study"}}
 ---
 
 See [[Machine Learning\|Machine Learning]]

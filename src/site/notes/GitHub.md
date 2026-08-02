@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/git-hub/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/git-hub/","noteIcon":"","dg-note-properties":{}}
 ---
 
 see[[Agentic AI\|Agentic AI]]

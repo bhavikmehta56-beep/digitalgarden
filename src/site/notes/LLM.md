@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/llm/","dg-note-properties":{"permalink":"AI study"}}
+{"dg-publish":true,"permalink":"/llm/","noteIcon":"","dg-note-properties":{"permalink":"AI study"}}
 ---
 
 See: [[Machine Learning\|Machine Learning]]

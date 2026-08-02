@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/","dg-note-properties":{"permalink":"AI study"}}
+{"dg-publish":true,"permalink":"/digital-garden/","noteIcon":"","dg-note-properties":{"permalink":"AI study"}}
 ---
 
 See [[Agentic AI\|Agentic AI]]
