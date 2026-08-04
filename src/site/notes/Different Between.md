@@ -17,23 +17,23 @@ See [[Artificial Intelligence\|Artificial Intelligence]]
  ------
 **Different between ML vs. LLM**
 
-|Feature|Machine Learning (ML)|Large Language Model (LLM)|
-|---|---|---|
-|**Definition**|A branch of AI that enables systems to learn patterns from data and make predictions or decisions.|A type of ML model trained on massive amounts of text to understand and generate human-like language.|
-|**Scope**|Broad field covering many algorithms and applications.|A specialized subset of ML focused on natural language processing (NLP).|
-|**Primary Purpose**|Predict, classify, detect patterns, or make decisions.|Understand, generate, summarize, translate, and answer questions in natural language.|
-|**Input Data**|Structured, semi-structured, or unstructured data (numbers, images, text, sensor data, etc.).|Primarily text (can also support multimodal inputs such as images and audio in some models).|
-|**Output**|Predictions, classifications, recommendations, forecasts, etc.|Human-like text, code, summaries, translations, conversations, and more.|
-|**Algorithms**|Decision Trees, Random Forest, SVM, Linear Regression, Neural Networks, etc.|Transformer-based neural networks (e.g., GPT, Llama, Gemini).|
-|**Training Data Size**|Can range from thousands to millions of records.|Typically trained on billions or trillions of words.|
-|**Training Cost**|Usually moderate, depending on the model.|Very high due to massive datasets and compute requirements.|
-|**Hardware Requirements**|CPU or GPU depending on model complexity.|Usually requires powerful GPUs/TPUs for training and often GPUs for efficient inference.|
-|**Data Type**|Numeric, categorical, images, audio, text, time series, etc.|Mainly text, with some models supporting images, audio, and video.|
-|**Learning Objective**|Learn patterns to make predictions or decisions.|Learn language patterns to generate coherent and context-aware responses.|
-|**Common Use Cases**|Fraud detection, sales prediction, recommendation systems, image recognition, demand forecasting.|Chatbots, virtual assistants, content generation, code generation, translation, summarization.|
-|**Examples**|Spam classifier, stock price prediction, customer churn prediction.|ChatGPT, Claude, Gemini, Llama, Mistral.|
-|**Can Work Without Language?**|✅ Yes|❌ No, language understanding/generation is central (even multimodal LLMs include language as a core component).|
-|**Relationship**|Parent field.|A specialized application of ML.|
+| Feature                        | Machine Learning (ML)                                                                              | Large Language Model (LLM)                                                                                      |
+| ------------------------------ | -------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| **Definition**                 | A branch of AI that enables systems to learn patterns from data and make predictions or decisions. | A type of ML model trained on massive amounts of text to understand and generate human-like language.           |
+| **Scope**                      | Broad field covering many algorithms and applications.                                             | A specialized subset of ML focused on natural language processing (NLP).                                        |
+| **Primary Purpose**            | Predict, classify, detect patterns, or make decisions.                                             | Understand, generate, summarize, translate, and answer questions in natural language.                           |
+| **Input Data**                 | Structured, semi-structured, or unstructured data (numbers, images, text, sensor data, etc.).      | Primarily text (can also support multimodal inputs such as images and audio in some models).                    |
+| **Output**                     | Predictions, classifications, recommendations, forecasts, etc.                                     | Human-like text, code, summaries, translations, conversations, and more.                                        |
+| **Algorithms**                 | Decision Trees, Random Forest, SVM, Linear Regression, Neural Networks, etc.                       | Transformer-based neural networks (e.g., GPT, Llama, Gemini).                                                   |
+| **Training Data Size**         | Can range from thousands to millions of records.                                                   | Typically trained on billions or trillions of words.                                                            |
+| **Training Cost**              | Usually moderate, depending on the model.                                                          | Very high due to massive datasets and compute requirements.                                                     |
+| **Hardware Requirements**      | CPU or GPU depending on model complexity.                                                          | Usually requires powerful GPUs/TPUs for training and often GPUs for efficient inference.                        |
+| **Data Type**                  | Numeric, categorical, images, audio, text, time series, etc.                                       | Mainly text, with some models supporting images, audio, and video.                                              |
+| **Learning Objective**         | Learn patterns to make predictions or decisions.                                                   | Learn language patterns to generate coherent and context-aware responses.                                       |
+| **Common Use Cases**           | Fraud detection, sales prediction, recommendation systems, image recognition, demand forecasting.  | Chatbots, virtual assistants, content generation, code generation, translation, summarization.                  |
+| **Examples**                   | Spam classifier, stock price prediction, customer churn prediction.                                | ChatGPT, Claude, Gemini, Llama, Mistral.                                                                        |
+| **Can Work Without Language?** | ✅ Yes                                                                                              | ❌ No, language understanding/generation is central (even multimodal LLMs include language as a core component). |
+| **Relationship**               | Parent field.                                                                                      | A specialized application of ML.                                                                                |
 
 ________
 **Different between LLM vs. RAG*
