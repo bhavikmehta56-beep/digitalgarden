@@ -125,3 +125,30 @@ A few key points about it:
 
 **Summary:**  
 Gemini is a multimodal AI model developed by Google that understands different types of input, processes them using advanced AI techniques, and generates intelligent, context-aware responses.
+
+_____
+**What is Notebook LLM ?** 
+NotebookLM is Google's AI-based research and note-taking tool. They have relabeled it Gemini Notebook as of July 16, 2026.
+
+**What it does**
+You upload sources (like PDFs, Google Docs, web pages, YouTube videos, or text you have pasted), and the app asks and answers questions, summarizes, and creates study aids based on those materials. That explains the key difference from a general chatbot. A general chatbot gives answers based on all information it has learned and therefore may give invented or made up answers. This tool limitedly uses what you uploaded.
+
+**Key features**
+- Briefing documents that summarize an entire notebook, study guides/quizzes, flashcards, your own frequently asked questions, timelines, and table of contents.
+- Audio Overviews is perhaps their most well-known feature where they create a video/podcast like discussion for the materials you have uploaded.
+- As of the rename, there was an addition of code execution where users can do data analysis based on the code they uploaded within secure cloud computers within their notebooks.
+ -----
+ **What is ElevenLabs ?**
+
+
+
+
+ -----
+  **What is Suno ?**
+
+
+
+
+
+ -----
+ **What is AstroCade ?**
