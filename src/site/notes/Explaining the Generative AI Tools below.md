@@ -128,7 +128,7 @@ Gemini is a multimodal AI model developed by Google that understands different t
 
 _____
 **What is Notebook LLM ?** 
-NotebookLM is Google's AI-based research and note-taking tool. They have relabeled it Gemini Notebook as of July 16, 2026.
+Notebook LLM is Google's AI-based research and note-taking tool. They have relabeled it Gemini Notebook as of July 16, 2026.
 
 **What it does**
 You upload sources (like PDFs, Google Docs, web pages, YouTube videos, or text you have pasted), and the app asks and answers questions, summarizes, and creates study aids based on those materials. That explains the key difference from a general chatbot. A general chatbot gives answers based on all information it has learned and therefore may give invented or made up answers. This tool limitedly uses what you uploaded.
