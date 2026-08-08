@@ -19,7 +19,7 @@ Tokenization is the translation layer between raw human text and mathematical ve
 
 3. Vector Embedding Transformation: The token IDs are passed to an Embedding Layer, converting each integer into a high-dimensional vector (a series of continuous numbers) that encodes semantic meaning for neural processing.
 
- ------
+------
 **Summary**
 In Large Language Models (LLMs), text processing revolves around three core concepts:
 
