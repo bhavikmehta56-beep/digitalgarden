@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/artificial-intelligence/","noteIcon":"","dg-note-properties":{}}
 ---
 
-Parent: [[Artificial Intelligence\|Artificial Intelligence]]
+Parent: [[About\|About]]
 
 **What is Artificial Intelligence (AI)?**
 Artificial Intelligence (AI) is a branch of computer science focused on building smart machines capable of performing tasks that typically require human intelligence—such as reasoning, learning from experience, recognizing patterns, understanding natural language, and making decisions.
