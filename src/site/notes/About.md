@@ -4,7 +4,7 @@
 
 
 
-![[images/.jpg\|images/.jpg]]![Bhavik Metha Photo.jpg](/img/user/Bhavik%20Metha%20Photo.jpg) | With over 15 years of experience in IT support, I’ve built my career around solving complex technical challenges and ensuring seamless operations for organizations. From configuring VMware Workstatio and software Center.  
+![Bhavik Metha Photo.jpg](/img/user/Bhavik%20Metha%20Photo.jpg) | With over 15 years of experience in IT support, I’ve built my career around solving complex technical challenges and ensuring seamless operations for organizations. From configuring VMware Workstatio and software Center.  
   
 My journey has taken me across diverse roles—from field support to L2 desktop engineering—where I’ve consistently delivered measurable results.  
   
