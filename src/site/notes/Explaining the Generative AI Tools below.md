@@ -139,16 +139,41 @@ You upload sources (like PDFs, Google Docs, web pages, YouTube videos, or text y
 - As of the rename, there was an addition of code execution where users can do data analysis based on the code they uploaded within secure cloud computers within their notebooks.
  -----
  **What is ElevenLabs ?**
-
-
-
-
+ElevenLabs is a London-based AI audio company founded in 2022, specializing in generative AI voice and speech-synthesis technology that produces highly realistic, human-like audio from text.
+- **Text-to-speech & voice cloning** – realistic, multilingual voice generation
+- **Dubbing** – translating and re-voicing content across languages
+- **Speech-to-text** (transcription)
+- **Voice agents** – conversational AI for customer support, onboarding, etc.
+- **AI music generation** – full songs with vocals/instrumentals
+- **Sound effects & studio tools** – for content creators and production teams
  -----
-  **What is Suno ?**
+**What is Suno ?**
+Suno is a browser-based AI music generator — you type a text prompt (or lyrics/mood/genre) and it produces a complete song with vocals, instruments, mixing, and mastering, generating full songs — vocals, instruments, mixing, and mastering included — from text descriptions.
 
-
-
-
-
- -----
- **What is AstroCade ?**
+-----
+**What is AstroCade ?**
+Astrocade is an AI-powered, no-code game creation platform — described as "TikTok for Games." You describe what you want in a text prompt, like "a tower defense game with medieval knights and magic spells," and the AI generates a playable browser game in minutes instead of months.
+____
+**What is Fotor ?**
+An all-in-one online photo editing platform. Combines basic editing (crop, filters, retouching) with AI features like background removal, AI image generation, photo enhancement, and design templates for social media graphics, posters, etc.
+____
+**What is Watermark Remover ?**
+A generic term (and category of tools/apps) for software that uses AI to detect and erase watermarks or logos overlaid on images or videos, restoring the underlying content. Many apps go by this exact name.
+___
+**What is ImagineArt ?**
+An AI image and video generator app that turns photos into AI videos, portraits, or creative edits — combining text-to-image generation, an AI photo editor, background removal, and enhancement tools in one app, popular for social media content (TikTok, Instagram, Shorts).
+____
+**What is Lexica ?**
+A search engine and gallery for AI-generated images (mostly from Stable Diffusion), where you can browse existing AI art along with the exact prompts used to create it — handy for prompt inspiration — and it also has its own image generator.
+____
+**What is Remini ?**
+An AI photo/video enhancer best known for dramatically upscaling and sharpening low-quality or old/blurry photos, plus AI portrait/avatar generation ("AI Photos" trend).
+____
+**What is Cleanup.pictures ?**
+A simple AI tool for removing unwanted objects, people, text, or defects from photos — you brush over what you want gone and the AI fills in the background naturally.
+____
+**What is Remove.bg ?**
+A dedicated AI tool that automatically detects the subject in a photo and removes the background in one click, leaving a transparent or replaceable background — widely used for product photos and headshots.
+___
+**What is Meshy-3D ?**
+An AI tool that generates 3D models from text prompts or 2D images, aimed at game developers, animators, and designers who need quick 3D assets without manual modeling.
