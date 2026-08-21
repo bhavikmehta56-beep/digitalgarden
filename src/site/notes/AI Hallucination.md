@@ -30,15 +30,6 @@ AI models generate text by predicting likely patterns based on their training an
 | Wrong calculations | Giving an incorrect mathematical result                  |
 | Misinterpretation  | Answering a different question from the one asked        |
 
-
-
-
-
-
-
-
-
-
 ----
 **Summary**
 AI hallucination = believable-looking AI output that is inaccurate, fabricated, or unsupported.
