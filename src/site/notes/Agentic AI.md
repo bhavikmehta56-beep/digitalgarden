@@ -5,7 +5,6 @@
 Parent: [[Artificial Intelligence\|Artificial Intelligence]]
 
 **What is Agentic AI ?**
-
 Agentic AI refers to autonomous artificial intelligence systems capable of proactively planning, executing, and iteratively refining multi-step actions to achieve a specific goal without requiring continuous human oversight. Unlike traditional generative AI, which merely responds to text prompts with text answers, Agentic AI acts as a proactive digital teammate that bridges the gap between text generation and real-world task execution.
 
 **How Agentic AI Works ?**
