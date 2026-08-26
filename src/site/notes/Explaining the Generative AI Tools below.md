@@ -177,3 +177,9 @@ A dedicated AI tool that automatically detects the subject in a photo and remove
 ___
 **What is Meshy-3D ?**
 An AI tool that generates 3D models from text prompts or 2D images, aimed at game developers, animators, and designers who need quick 3D assets without manual modeling.
+____
+**What is Replit ?**
+Replit is an online coding platform that lets you create, run, and deploy apps and websites directly from your browser, with built-in AI tools to help you code.
+____
+**What is Emergent ?**
+An AI platform that builds full-stack web and mobile apps automatically from plain-English descriptions, using multiple specialized AI agents to handle coding, testing, and deployment—no programming required.
