@@ -146,40 +146,54 @@ ElevenLabs is a London-based AI audio company founded in 2022, specializing in g
 - **Voice agents** – conversational AI for customer support, onboarding, etc.
 - **AI music generation** – full songs with vocals/instrumentals
 - **Sound effects & studio tools** – for content creators and production teams
+Link: 
  -----
 **What is Suno ?**
 Suno is a browser-based AI music generator — you type a text prompt (or lyrics/mood/genre) and it produces a complete song with vocals, instruments, mixing, and mastering, generating full songs — vocals, instruments, mixing, and mastering included — from text descriptions.
+Link: https://suno.com
 
 -----
 **What is AstroCade ?**
 Astrocade is an AI-powered, no-code game creation platform — described as "TikTok for Games." You describe what you want in a text prompt, like "a tower defense game with medieval knights and magic spells," and the AI generates a playable browser game in minutes instead of months.
+Link: https://www.astrocade.com
 ____
 **What is Fotor ?**
 An all-in-one online photo editing platform. Combines basic editing (crop, filters, retouching) with AI features like background removal, AI image generation, photo enhancement, and design templates for social media graphics, posters, etc.
+Link: https://www.fotor.com/ai-photo-editor/
 ____
 **What is Watermark Remover ?**
 A generic term (and category of tools/apps) for software that uses AI to detect and erase watermarks or logos overlaid on images or videos, restoring the underlying content. Many apps go by this exact name.
+Link: https://www.watermarkremover.io/
 ___
 **What is ImagineArt ?**
 An AI image and video generator app that turns photos into AI videos, portraits, or creative edits — combining text-to-image generation, an AI photo editor, background removal, and enhancement tools in one app, popular for social media content (TikTok, Instagram, Shorts).
+Link: https://www.imagine.art/assist
 ____
 **What is Lexica ?**
 A search engine and gallery for AI-generated images (mostly from Stable Diffusion), where you can browse existing AI art along with the exact prompts used to create it — handy for prompt inspiration — and it also has its own image generator.
+Link: https://lexica.art/
 ____
 **What is Remini ?**
 An AI photo/video enhancer best known for dramatically upscaling and sharpening low-quality or old/blurry photos, plus AI portrait/avatar generation ("AI Photos" trend).
+Link: https://app.remini.ai/
 ____
 **What is Cleanup.pictures ?**
 A simple AI tool for removing unwanted objects, people, text, or defects from photos — you brush over what you want gone and the AI fills in the background naturally.
+Link: https://cleanup.pictures/
 ____
 **What is Remove.bg ?**
 A dedicated AI tool that automatically detects the subject in a photo and removes the background in one click, leaving a transparent or replaceable background — widely used for product photos and headshots.
+Link: https://accounts.kaleido.ai/users/sign_up
 ___
 **What is Meshy-3D ?**
 An AI tool that generates 3D models from text prompts or 2D images, aimed at game developers, animators, and designers who need quick 3D assets without manual modeling.
+Link: https://www.meshy.ai/
 ____
 **What is Replit ?**
 Replit is an online coding platform that lets you create, run, and deploy apps and websites directly from your browser, with built-in AI tools to help you code.
+Link: https://replit.com/
 ____
 **What is Emergent ?**
 An AI platform that builds full-stack web and mobile apps automatically from plain-English descriptions, using multiple specialized AI agents to handle coding, testing, and deployment—no programming required.
+Link: https://app.emergent.sh/home
+____
