@@ -6,7 +6,6 @@ See [[Generative AI\|Generative AI]]
 
 **What is Chat GTP ? How it work** 
 ChatGPT, an AI assistant created by OpenAI. I use advanced language models (GPT) to understand text, answer questions, write content, explain concepts, help with coding, solve problems, and assist with learning.
-
 **Simple Diagram**
 ```
                  +----------------------+
@@ -63,7 +62,6 @@ ChatGPT, an AI assistant created by OpenAI. I use advanced language models (GPT)
 -----
 **What Is Claude ? How it work**
 A large language model trained to have conversations, answer questions, and help with tasks like writing, coding, analysis, and research. 
-
 **How it work**
 It take in text (and other input like images or files), and generate responses based on patterns learned during training — I don't have a body, memory of other conversations (unless you enable that), or real-time awareness unless I search the web.
 ![Cluade Diagram.png](/img/user/Image/Cluade%20Diagram.png)
@@ -76,12 +74,10 @@ It not conscious, all-knowing, or a replacement for professional advice (medical
 ------
 **What Is Gemini ? How it work**
 Gemini is Google's family of multimodal AI models, developed by Google DeepMind. It's designed to be a direct competitor to models like Claude and OpenAI's GPT series.
-
 A few key points about it:
 - **Multimodal by design**: Gemini was built from the ground up to understand and work with text, images, audio, video, and code, rather than having these capabilities bolted on afterward.
 - **Multiple sizes**: Google typically releases it in different tiers — historically named things like Ultra, Pro, Flash, and Nano — trading off capability against speed and cost, so it can run on anything from data centers to phones.
 - **Integration**: It powers Google's consumer chatbot (formerly Bard, now called Gemini) and is woven into products like Google Search, Workspace apps (Docs, Gmail), Android, and is available to developers through Google AI Studio and Vertex AI.
-
 **How Gemini Works**
 
 ```text
@@ -122,17 +118,11 @@ A few key points about it:
 - Understands context and natural language.
 - Generates accurate and human-like responses.
 - Can assist with coding, writing, learning, reasoning, and problem-solving.
-
-**Summary:**  
-Gemini is a multimodal AI model developed by Google that understands different types of input, processes them using advanced AI techniques, and generates intelligent, context-aware responses.
-
 _____
 **What is Notebook LLM ?** 
 Notebook LLM is Google's AI-based research and note-taking tool. They have relabeled it Gemini Notebook as of July 16, 2026.
-
 **What it does**
 You upload sources (like PDFs, Google Docs, web pages, YouTube videos, or text you have pasted), and the app asks and answers questions, summarizes, and creates study aids based on those materials. That explains the key difference from a general chatbot. A general chatbot gives answers based on all information it has learned and therefore may give invented or made up answers. This tool limitedly uses what you uploaded.
-
 **Key features**
 - Briefing documents that summarize an entire notebook, study guides/quizzes, flashcards, your own frequently asked questions, timelines, and table of contents.
 - Audio Overviews is perhaps their most well-known feature where they create a video/podcast like discussion for the materials you have uploaded.
@@ -146,7 +136,7 @@ ElevenLabs is a London-based AI audio company founded in 2022, specializing in g
 - **Voice agents** – conversational AI for customer support, onboarding, etc.
 - **AI music generation** – full songs with vocals/instrumentals
 - **Sound effects & studio tools** – for content creators and production teams
-Link: 
+Link: https://elevenlabs.io/
  -----
 **What is Suno ?**
 Suno is a browser-based AI music generator — you type a text prompt (or lyrics/mood/genre) and it produces a complete song with vocals, instruments, mixing, and mastering, generating full songs — vocals, instruments, mixing, and mastering included — from text descriptions.
@@ -197,3 +187,46 @@ ____
 An AI platform that builds full-stack web and mobile apps automatically from plain-English descriptions, using multiple specialized AI agents to handle coding, testing, and deployment—no programming required.
 Link: https://app.emergent.sh/home
 ____
+**What is Moises ?**
+Moises AI (or Moises.ai) is an AI-powered music platform built for musicians, vocalists, DJs, and music producers. Its core capability is AI audio stem separation, which isolates individual elements—such as vocals, drums, bass, guitar, or piano—from any full song or audio file.
+**Key Features**
+- **Stem Separation**: Isolates or removes vocals, drums, bass, keys, and other instruments into individual tracks to create backing tracks, karaoke tracks, or samples.
+- **AI Key & Pitch Detection**: Detects the musical key of a track and allows users to transpose or pitch-shift the audio in real time.
+- **Smart Metronome & Speed Changer**: Automatically generates a click track synchronized to the song's BPM and allows users to slow down or speed up audio without altering the pitch.
+- **Chord Detection**: Transcribes and displays real-time chords alongside playback to assist with learning and practicing songs.
+- **Lyric Alignment**: Displays synchronized lyrics that track automatically with audio playback.
+- **Voice Studio**: Features AI vocal modeling, allowing producers to replace or refine vocal performances using artificial voice models or custom voice styles.
+Link: https://studio.moises.ai/
+_____
+**What is Synthesia ?**
+Synthesia is an AI video generation platform that enables users to create professional presenter-led videos using hyper-realistic AI avatars and synthetic voices—eliminating the need for traditional cameras, studios, or human actors.
+**Key Capabilities**
+- **AI Avatars**: Provides a library of over 200 stock human avatars that mimic natural human speech, micro-expressions, body language, and gestures.
+- **Custom Avatars**: Allows organizations to create personalized digital twins of real team members or executives using short video recordings.
+- **Text-to-Video Generation**: Users simply type or paste a script, select an avatar, and the platform synthesizes realistic lip-synced video output.
+- **Multilingual Localization**: Converts scripts and translates videos into over 140 languages and accents instantly, maintaining voice tone and lip synchronization.
+- **AI Script & Assistant Tools**: Integrates AI helpers that can convert text documents, PDFs, or web links into fully formatted video scripts and slide layouts automatically.
+- **Video Editing Suite**: Built-in web editor to add slides, text overlays, stock media, screen recordings, custom branding, and background audio.
+Link: https://app.synthesia.io/
+___
+**What is Viggle ?**
+Viggle AI is an generative AI video platform focused on character animation and motion transfer. Powered by its proprietary 3D video engine (JST-1), it allows users to take a static image of any person, character, or figure and map real motion onto them using a reference video clip or motion template. 
+**Core Features**
+- **Mix (Motion Transfer)**: Replaces a character in a video clip with a user-uploaded static image. The engine extracts the motion, skeletal poses, and physics from the source video and applies them to the new image.  
+- **Multi-Character Swaps**: Allows replacing up to multiple different characters within the same video clip simultaneously.  
+- **3D Physics & Pose Consistency**: Unlike standard text-to-video AI tools that create random movement, Viggle uses 3D spatial awareness to keep a character's features consistent while forcing them to follow precise physical actions (e.g., flips, dances, walking).  
+- **Lip-Sync & Audio (Mic/Rap)**: Animates characters to talk, sing, or lip-sync along with text prompts or custom audio recordings.  
+- **Live Motion (Viggle LIVE)**: Real-time motion tracking that allows an uploaded image to mirror a user's live webcam/camera movements
+Link: https://viggle.ai
+____
+**What is Pixverse ?**
+PixVerse is an generative AI platform designed for creating and editing short, cinematic video clips from text prompts, images, or audio. It is widely used by filmmakers, marketers, content creators, and social media producers as a cost-effective alternative to traditional video production.
+**Key Capabilities**
+- **Text-to-Video**: Generates realistic or stylized video clips based on descriptive text prompts.
+- **Image-to-Video**: Animates static images, photos, or digital art into motion while maintaining visual identity.  
+- **Cinematic Camera Control**: Allows creators to prompt specific camera movements such as pans, tilts, zooms, tracking shots, or crane moves.  
+- **Native Audio Sync & Lip-Sync**: Generates atmospheric sound effects, ambient noise, and voice lines directly synchronized with the visual action, including avatar lip-syncing.  
+- **Multi-Shot & Character Consistency**: Supports multi-shot prompts that keep characters, lighting, and environments consistent across different cuts within the same clip.  
+- **Creation Suite Tools**: Features motion control, AI music video (Vibe MV) creation, video upscaling (up to 4K), style transfers, and node-based workflows (Canvas). 
+Link: https://app.pixverse.ai/
+________
