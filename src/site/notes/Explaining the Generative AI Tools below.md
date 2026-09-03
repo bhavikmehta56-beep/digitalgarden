@@ -230,3 +230,49 @@ PixVerse is an generative AI platform designed for creating and editing short, c
 - **Creation Suite Tools**: Features motion control, AI music video (Vibe MV) creation, video upscaling (up to 4K), style transfers, and node-based workflows (Canvas). 
 Link: https://app.pixverse.ai/
 ________
+**What is Runway ?**
+Runway is an applied AI research company and creative platform best known for pioneering generative AI video models. Founded in 2018, it provides web-based tools that allow filmmakers, designers, and content creators to generate, edit, and manipulate video content using natural language prompts or existing images.
+**Key Capabilities & Suite Tools**
+- **Text-to-Video / Image-to-Video**: Generate realistic or stylized video clips up to 10 seconds per run using descriptive prompts or reference imagery.
+- **Motion Brush & Camera Control**: Control specific motion vectors within a frame—like directing water to flow or zooming/panning a virtual camera.
+- **AI Editing Suite**: Offers browser-based video editing features including background removal (green screen automation), object erasing (inpainting), slow-motion generation, and text-driven image editing.
+Link: https://auth.runwayml.com/
+_____
+**What is Skybox AI ?**
+Skybox AI (by Blockade Labs) is a generative AI tool designed to instantly create seamless, 360-degree panoramic skyboxes and virtual environments from simple text prompts or quick sketches.
+**Core Features & Capabilities**
+- **360° Equirectangular Generation**: Generates full high-resolution immersive spherical environments ready to map directly onto 3D scenes.
+- **Sketch-to-360 (ControlNet)**: Allows users to draw rough lines or shapes directly on a 360 canvas to guide the structure, layout, and horizon before rendering.
+- **Multiple Artistic Styles**: Presets ranging from digital painting, fantasy, anime, and sci-fi to photorealistic, cyberpunk, and low-poly art.
+- **Depth Map Exporting:** Generates corresponding depth maps alongside the equirectangular image, enabling conversion into interactive 3D meshes or spatial mesh environments.
+Link: https://skybox.blockadelabs.com/
+___
+**What is Animaker ?**
+Animaker is a cloud-based DIY animation and video creation platform designed to let non-technical users build animated videos, live-action content, and visual presentations using a drag-and-drop interface.
+**Key Features & Tools**
+- **Custom Character Builder**: Create custom 2D animated avatars with tailored facial features, hairstyles, outfits, accessories, and expression presets.
+- **Auto-Lip Sync**: Synchronize character voiceovers automatically with text-to-speech inputs or uploaded voice recordings.
+- **AI Video Generation**: Convert text prompts, scripts, or blog URLs into draft video scenes complete with assets, backgrounds, and voiceovers.
+- **Asset Library**: Access pre-made templates, animated props, backgrounds, royalty-free music, and stock video clips.
+- **Specialized Formats**: Supports 2D animation, whiteboard animation, infographics, screen recording, and social media dimensions (16:9, 9:16, 1:1).
+Link: https://www.animaker.com/
+___
+**What is Heygen ?**
+HeyGen is an AI-powered video generation platform designed to create professional videos using realistic AI avatars and text-to-speech voice synthesis. It allows users to produce presenter-led videos without needing cameras, actors, studios, or traditional video editing skills.
+**Core Capabilities & Features**
+- **AI Avatars**: Choose from hundreds of stock studio avatars, or create a custom "Digital Twin" avatar by recording a short reference video of yourself.
+- **Voice Cloning & Text-to-Speech**: Type a script in any language, choose an AI voice tone, or clone your own voice to speak the written script naturally.
+- **Video Translation & Lip-Syncing**: Translate existing videos into 100+ languages while automatically adjusting the speaker's lip movements to match the new translated audio seamlessly.
+- **Interactive Avatars**: Deploy real-time conversational AI avatars capable of hosting live Q&A, customer support, or interactive training sessions.
+Link: https://app.heygen.com/
+___
+**What is VEED.IO ?**
+VEED.IO is an online, browser-based video creation and editing platform designed to simplify post-production for content creators, marketers, and teams without requiring complex desktop software.
+**Core Capabilities & Key Features**
+- **Auto-Subtitles & Translations**: Uses speech-to-text to generate accurate subtitles automatically, offering animated caption styles, custom fonts, and multi-language translation.
+- **AI Avatars & Voice Generators**: Convert text scripts into talking AI presenter videos or generate realistic voiceovers in various languages and accents.
+- **Screen & Webcam Recorder**: Built-in screen recording tools with instant cloud sharing, slide presentation overlays, and split-screen layouts.
+- **Audio Cleaning & Editing**: One-click background noise removal ("Clean Audio"), silent pause removal, and auto-filler-word elimination ("um", "ah").
+- **Social Media Formatting**: Quick canvas resizing for TikTok, Instagram Reels, YouTube Shorts, and LinkedIn (9:16, 16:9, 1:1) along with progress bar widgets and text callouts.
+Link: https://www.veed.io/ 
+____
