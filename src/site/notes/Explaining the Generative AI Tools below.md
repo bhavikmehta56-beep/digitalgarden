@@ -285,3 +285,100 @@ Originally, the tool relied on metrics like perplexity (text randomness) and bur
 - **Mixed Content Detection**: Differentiates between fully human, fully AI, or human-written content refined by AI.
 Link: https://app.gptzero.me/
 ____
+**What is Kickresume ?**
+Kickresume is an online resume and career tool platform that helps users create professional resumes, cover letters, and personal websites. 
+**Core Features**
+- **Resume Builder**: A drag-and-drop editor with professionally designed templates to create polished resumes quickly.
+- **Cover Letter Builder**: Tools to craft matching cover letters alongside resumes.
+- **Personal Website Builder**: Create a simple portfolio/personal page from your resume data.
+- **AI-Powered Writing**: AI assistance to help write or improve resume content, job descriptions, and summaries.
+- **Resume Checker**: Analyzes your resume and gives feedback on how to improve it.
+Link: https://www.kickresume.com/
+______
+**What is Writehuman.ai ?**
+WriteHuman.ai is an AI text humanizer tool that transforms AI-generated content into natural, human-like writing. Here's a breakdown:
+**Key Features**
+* **AI Humanizer:** The core tool that rewrites pasted AI drafts into human-sounding copy.
+* **Built-In AI Detector:** Scans text against common detection metrics to show you the likelihood of it passing as human before you publish.
+* **Tone & Style Controls:** Allows adjustments to match formal, conversational, or creative styles.
+* **Multi-Language Support:** Handles humanization across 40+ languages.
+* **Free Retry Guarantee:** If a generated output still triggers an AI detector, the platform lets you re-run it for free.
+Link: https://writehuman.ai/
+_____
+**What is ChatPDF ?**
+ChatPDF is an AI-powered web tool that lets you interact with PDF documents using a conversational, chat-based interface. Instead of manually scrolling through long documents, you upload a PDF and ask questions, generate summaries, or search for specific details in natural language.  
+**Key Features**
+- **Instant Summarization**: Generates quick overviews or section summaries for research papers, reports, legal documents, or textbooks.
+- **Targeted Questioning**: Scans the text to give direct answers to specific questions, complete with exact page references so you can verify the information.
+- **Multi-Language Support**: Reads documents in almost any language and can answer questions or translate the content into another language.
+- **Multi-Document Analysis**: Allows you to upload multiple PDFs into a single workspace to compare information across files simultaneously.
+Link: https://www.chatpdf.com/
+_______
+**What is Quillbot ?**
+QuillBot is an AI-powered writing and paraphrasing tool designed to help users rewrite, edit, and improve sentences, essays, or articles.
+**Core Features**
+- **Paraphraser**: Rewrites sentences using different tones and vocabulary (e.g., Standard, Fluency, Formal, Creative, Academic).
+- **Grammar Checker**: Detects spelling, punctuation, and grammatical mistakes.
+- **Summarizer**: Condenses long articles, papers, or documents into key bullet points or paragraph summaries.
+- **Plagiarism Checker**: Scans text to ensure originality and check against online sources.
+- **Citation Generator**: Creates APA, MLA, Chicago, and other reference citations for academic writing.
+- **AI Detector**: Analyzes text to determine whether it was written by human or AI models.
+Link: https://quillbot.com/
+____
+**What is Design.com ?**
+Design.com is an AI-powered design and branding platform created specifically for startups, entrepreneurs, and small businesses. Built by the team behind DesignCrowd, it serves as an all-in-one suite to help users launch a brand identity without needing professional design experience.
+**Key Features & Tools**
+- **AI Logo Generator**: Uses prompt-based AI and a library of over 400,000 templates to instantly generate vector logos and offer natural-language editing capabilities.
+- **AI Website Builder**: Automatically creates responsive, customizable websites based on your business name and concept, complete with built-in hosting and domain options.
+- **Brand Kits & Marketing Assets**: Automatically applies your logo, fonts, and brand colors across print and digital templates like business cards, posters, flyers, and social media graphics.
+- **Social & Link Tools**: Generates custom social media banners, posts, stories, QR codes, and "link in bio" landing pages. 
+Link: https://www.design.com/
+_____
+**What is plantrip.io ?**
+Plantrip.io is an AI-powered travel planning tool that generates custom, day-by-day travel itineraries based on your preferences. It acts as a digital travel assistant to eliminate the hours spent researching destinations across dozens of browser tabs.  
+**Key Features**
+- **Detailed Itineraries**: Creates daily or hourly schedules featuring recommended sights, activities, local places to eat, and hidden gems.
+- **Interactive Maps & Routes**: Maps out daily activities geographically to keep travel routes logical and prevent unnecessary back-and-forth travel across a city.
+- **Customization**: Allows you to adjust preferences (e.g., family-friendly, budget-conscious, foodie-focused, or outdoor adventure) to tailor suggestions. 
+- **Packing Lists & Insights**: Generates destination-specific packing lists and offers practical travel tips or local insights.
+- **Export Options**: Lets you export or download your finalized itinerary as a PDF or shareable link for easy access on the go.
+Link: https://plantrip.io/
+_____
+**What is Mapify ?**
+Mapify (formerly Chatmind) is an AI-powered mind-mapping and summarization tool developed by Xmind. It converts lengthy documents, media, and text into visual, interactive mind maps.  
+**Key Features**
+- **Multi-Format Summarization**: Turns PDFs, Word documents, web pages, podcasts, audio files, and images directly into structured visual maps.
+- **YouTube Video Mapping**: Converts long YouTube videos into structured key takeaways, complete with timestamp navigation to click directly to specific moments in the video.
+- **Interactive AI Assistant**: Features a "Chat with File" function, enabling Q&A, content translation into 30+ languages, and web search to expand map branches dynamically.
+- **Presentation & Exporting**: Automatically converts generated mind maps into presentation slides, and allows exports in formats like PDF, image files, or Markdown. 
+- **Cross-Platform Syncing**: Runs via web browsers, browser extensions, and mobile apps (iOS and Android)
+Link: https://mapify.so/
+____
+**What is fillout.com ?**
+Fillout (fillout.com) is an advanced, flexible form builder designed to create powerful forms, surveys, and multi-page applications without coding. It is particularly popular for its deep integration ecosystem, especially with databases like Airtable and Notion.
+**Core Features**
+- **Advanced Form Logic**: Supports complex conditional logic, branching, skip logic, and dynamic calculations across multi-page forms.
+- **Deep Airtable & Notion Integration**: Allows users to sync form submissions directly into Airtable bases, Notion databases, and various CRM platforms with minimal setup.
+- **Widget & Field Variety**: Offers dozens of specialized field types, including file uploads, signature capturing, ratings, matrix grids, and scheduling widgets.
+- **AI Form Builder**: Generates full functional forms automatically based on a simple text prompt describing your use case.
+- **Embedding & Customization**: Can be embedded seamlessly into websites, shared as standalone landing pages, or customized with custom branding and CSS styling.
+Link: https://www.fillout.com/
+____
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
