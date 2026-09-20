@@ -3,6 +3,7 @@
 ---
 
 See [[Agentic AI\|Agentic AI]]
+
 **What is AI Illusion / Hallucination ?**
 AI hallucination is when an AI generates information that appears believable and confident but is false, invented, or unsupported by the available information.
 Example: - 

@@ -3,6 +3,7 @@
 ---
 
 See [[Module Context Protocol\|Module Context Protocol]]
+
 Step 1 — Make sure you have a Canva account
 Go to Canva and create/sign into your account.
 ![Canva Signup page.png\|519](/img/user/Image/Canva%20Signup%20page.png)
