@@ -5,7 +5,7 @@
 See [[Module Context Protocol\|Module Context Protocol]]
 Step 1 — Make sure you have a Canva account
 Go to Canva and create/sign into your account.
-![Pasted image 20260920104808.png\|519](/img/user/Pasted%20image%2020260920104808.png)
+![Canva Signup page.png\|519](/img/user/Image/Canva%20Signup%20page.png)
 Step 2 — Open ChatGPT & Go to Settings.
 ![Open ChatGPT & Go to Settings..png\|206](/img/user/Image/Open%20ChatGPT%20&%20Go%20to%20Settings..png)
 Step 4 — Look for Apps / Connectors / Integrations.
